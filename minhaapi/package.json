@@ -1,11 +1,11 @@
 {
-  "name": "package.json",
+  "name": "apirequisicoes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js"
+    "dev":"nodemon server.js"
   },
   "author": "",
   "license": "ISC",
@@ -16,7 +16,6 @@
     "mongoose": "^6.2.7"
   },
   "devDependencies": {
-    "@types/node": "^17.0.21",
     "nodemon": "^2.0.15"
   }
 }
